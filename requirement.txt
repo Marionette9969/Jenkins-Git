@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Flask==2.3.2
+=======
+# No dependencies needed for this simple app
+>>>>>>> 12604e10867eb7a9811120342c99379aac5e4bac
